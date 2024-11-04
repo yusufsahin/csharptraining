@@ -1,0 +1,14 @@
+C:\Projects\csharp\Operatorler\Operatorler\bin\Debug\net8.0\Operatorler.exe
+C:\Projects\csharp\Operatorler\Operatorler\bin\Debug\net8.0\Operatorler.deps.json
+C:\Projects\csharp\Operatorler\Operatorler\bin\Debug\net8.0\Operatorler.runtimeconfig.json
+C:\Projects\csharp\Operatorler\Operatorler\bin\Debug\net8.0\Operatorler.dll
+C:\Projects\csharp\Operatorler\Operatorler\bin\Debug\net8.0\Operatorler.pdb
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfoInputs.cache
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.AssemblyInfo.cs
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.dll
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\refint\Operatorler.dll
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.pdb
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\Operatorler.genruntimeconfig.cache
+C:\Projects\csharp\Operatorler\Operatorler\obj\Debug\net8.0\ref\Operatorler.dll

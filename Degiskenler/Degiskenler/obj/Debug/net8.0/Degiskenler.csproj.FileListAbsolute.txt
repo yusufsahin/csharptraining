@@ -1,0 +1,14 @@
+C:\Projects\csharp\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.exe
+C:\Projects\csharp\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.deps.json
+C:\Projects\csharp\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.runtimeconfig.json
+C:\Projects\csharp\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.dll
+C:\Projects\csharp\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.pdb
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.AssemblyInfo.cs
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.dll
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\refint\Degiskenler.dll
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.pdb
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.genruntimeconfig.cache
+C:\Projects\csharp\Degiskenler\Degiskenler\obj\Debug\net8.0\ref\Degiskenler.dll

@@ -1,0 +1,14 @@
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\bin\Debug\net8.0\KontrolYapilari.exe
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\bin\Debug\net8.0\KontrolYapilari.deps.json
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\bin\Debug\net8.0\KontrolYapilari.runtimeconfig.json
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\bin\Debug\net8.0\KontrolYapilari.dll
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\bin\Debug\net8.0\KontrolYapilari.pdb
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.AssemblyInfoInputs.cache
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.AssemblyInfo.cs
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.dll
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\refint\KontrolYapilari.dll
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.pdb
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.genruntimeconfig.cache
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\ref\KontrolYapilari.dll
