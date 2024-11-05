@@ -1,0 +1,15 @@
+C:\Projects\csharp\DegerReferans\DegerReferans\bin\Debug\net8.0\DegerReferans.exe
+C:\Projects\csharp\DegerReferans\DegerReferans\bin\Debug\net8.0\DegerReferans.deps.json
+C:\Projects\csharp\DegerReferans\DegerReferans\bin\Debug\net8.0\DegerReferans.runtimeconfig.json
+C:\Projects\csharp\DegerReferans\DegerReferans\bin\Debug\net8.0\DegerReferans.dll
+C:\Projects\csharp\DegerReferans\DegerReferans\bin\Debug\net8.0\DegerReferans.pdb
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.AssemblyInfoInputs.cache
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.AssemblyInfo.cs
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.sourcelink.json
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.dll
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\refint\DegerReferans.dll
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.pdb
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\DegerReferans.genruntimeconfig.cache
+C:\Projects\csharp\DegerReferans\DegerReferans\obj\Debug\net8.0\ref\DegerReferans.dll

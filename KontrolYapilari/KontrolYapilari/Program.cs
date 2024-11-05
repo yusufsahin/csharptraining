@@ -132,6 +132,17 @@
                 Console.WriteLine(s);
             }
 
+
+            //Değer Tipi
+
+            int p = 10;
+            int q = p;
+
+            q = 20;
+
+            Console.WriteLine("p: " + p);
+            Console.WriteLine("q: " + q);
+
         }
     }
 }

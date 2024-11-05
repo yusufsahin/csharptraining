@@ -12,3 +12,4 @@ C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\refint\Kontr
 C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.pdb
 C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.genruntimeconfig.cache
 C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\ref\KontrolYapilari.dll
+C:\Projects\csharp\KontrolYapilari\KontrolYapilari\obj\Debug\net8.0\KontrolYapilari.sourcelink.json
