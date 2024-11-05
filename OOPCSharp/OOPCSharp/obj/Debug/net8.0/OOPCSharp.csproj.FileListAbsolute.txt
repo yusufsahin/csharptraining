@@ -1,0 +1,15 @@
+C:\Projects\csharp\OOPCSharp\OOPCSharp\bin\Debug\net8.0\OOPCSharp.exe
+C:\Projects\csharp\OOPCSharp\OOPCSharp\bin\Debug\net8.0\OOPCSharp.deps.json
+C:\Projects\csharp\OOPCSharp\OOPCSharp\bin\Debug\net8.0\OOPCSharp.runtimeconfig.json
+C:\Projects\csharp\OOPCSharp\OOPCSharp\bin\Debug\net8.0\OOPCSharp.dll
+C:\Projects\csharp\OOPCSharp\OOPCSharp\bin\Debug\net8.0\OOPCSharp.pdb
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.AssemblyInfoInputs.cache
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.AssemblyInfo.cs
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.sourcelink.json
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.dll
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\refint\OOPCSharp.dll
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.pdb
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\OOPCSharp.genruntimeconfig.cache
+C:\Projects\csharp\OOPCSharp\OOPCSharp\obj\Debug\net8.0\ref\OOPCSharp.dll

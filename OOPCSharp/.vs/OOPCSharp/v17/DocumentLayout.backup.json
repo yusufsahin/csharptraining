@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\csharp\\OOPCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|c:\\projects\\csharp\\oopcsharp\\oopcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|solutionrelative:oopcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|c:\\projects\\csharp\\oopcsharp\\oopcsharp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|solutionrelative:oopcsharp\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|c:\\projects\\csharp\\oopcsharp\\oopcsharp\\models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|solutionrelative:oopcsharp\\models\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|c:\\projects\\csharp\\oopcsharp\\oopcsharp\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|solutionrelative:oopcsharp\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|c:\\projects\\csharp\\oopcsharp\\oopcsharp\\models\\iconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE2EEF-D17D-4E8D-9FCD-5C61912834CD}|OOPCSharp\\OOPCSharp.csproj|solutionrelative:oopcsharp\\models\\iconditioner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConditioner.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\IConditioner.cs",
+              "RelativeDocumentMoniker": "OOPCSharp\\Models\\IConditioner.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\IConditioner.cs",
+              "RelativeToolTip": "OOPCSharp\\Models\\IConditioner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:11:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\Bike.cs",
+              "RelativeDocumentMoniker": "OOPCSharp\\Models\\Bike.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\Bike.cs*",
+              "RelativeToolTip": "OOPCSharp\\Models\\Bike.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:01:45.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "OOPCSharp\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\Vehicle.cs*",
+              "RelativeToolTip": "OOPCSharp\\Models\\Vehicle.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:54:59.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "OOPCSharp\\Models\\Car.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Models\\Car.cs*",
+              "RelativeToolTip": "OOPCSharp\\Models\\Car.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvygAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:49:42.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "OOPCSharp\\Program.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPCSharp\\OOPCSharp\\Program.cs*",
+              "RelativeToolTip": "OOPCSharp\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:48:42.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
