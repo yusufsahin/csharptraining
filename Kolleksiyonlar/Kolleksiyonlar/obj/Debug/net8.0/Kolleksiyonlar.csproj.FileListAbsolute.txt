@@ -1,0 +1,15 @@
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\bin\Debug\net8.0\Kolleksiyonlar.exe
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\bin\Debug\net8.0\Kolleksiyonlar.deps.json
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\bin\Debug\net8.0\Kolleksiyonlar.runtimeconfig.json
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\bin\Debug\net8.0\Kolleksiyonlar.dll
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\bin\Debug\net8.0\Kolleksiyonlar.pdb
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.AssemblyInfoInputs.cache
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.AssemblyInfo.cs
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.sourcelink.json
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.dll
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\refint\Kolleksiyonlar.dll
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.pdb
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\Kolleksiyonlar.genruntimeconfig.cache
+C:\Projects\csharp\Kolleksiyonlar\Kolleksiyonlar\obj\Debug\net8.0\ref\Kolleksiyonlar.dll
