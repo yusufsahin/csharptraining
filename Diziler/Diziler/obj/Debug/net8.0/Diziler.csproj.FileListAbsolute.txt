@@ -1,0 +1,15 @@
+C:\Projects\csharp\Diziler\Diziler\bin\Debug\net8.0\Diziler.exe
+C:\Projects\csharp\Diziler\Diziler\bin\Debug\net8.0\Diziler.deps.json
+C:\Projects\csharp\Diziler\Diziler\bin\Debug\net8.0\Diziler.runtimeconfig.json
+C:\Projects\csharp\Diziler\Diziler\bin\Debug\net8.0\Diziler.dll
+C:\Projects\csharp\Diziler\Diziler\bin\Debug\net8.0\Diziler.pdb
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.AssemblyInfoInputs.cache
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.AssemblyInfo.cs
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.sourcelink.json
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.dll
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\refint\Diziler.dll
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.pdb
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\Diziler.genruntimeconfig.cache
+C:\Projects\csharp\Diziler\Diziler\obj\Debug\net8.0\ref\Diziler.dll
