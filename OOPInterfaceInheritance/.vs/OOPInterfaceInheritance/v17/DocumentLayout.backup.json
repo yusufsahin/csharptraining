@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\agislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\agislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\iag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\iag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\idosya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\idosya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\dosyaislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\dosyaislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\isilinebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\isilinebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\iyazilabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\iyazilabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|c:\\projects\\csharp\\oopinterfaceinheritance\\oopinterfaceinheritance\\iokunabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{209752E7-8639-44EA-A2EE-5017B1803BC6}|OOPInterfaceInheritance\\OOPInterfaceInheritance.csproj|solutionrelative:oopinterfaceinheritance\\iokunabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgIslemleri.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\AgIslemleri.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\AgIslemleri.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\AgIslemleri.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\AgIslemleri.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:21:56.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAg.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IAg.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\IAg.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IAg.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\IAg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:20:17.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DosyaIslemleri.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\DosyaIslemleri.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\DosyaIslemleri.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\DosyaIslemleri.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\DosyaIslemleri.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:17:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDosya.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IDosya.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\IDosya.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IDosya.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\IDosya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:15:15.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISilinebilir.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\ISilinebilir.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\ISilinebilir.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\ISilinebilir.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\ISilinebilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:14:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IYazilabilir.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IYazilabilir.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\IYazilabilir.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IYazilabilir.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\IYazilabilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:13:21.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOkunabilir.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IOkunabilir.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\IOkunabilir.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\IOkunabilir.cs",
+              "RelativeToolTip": "OOPInterfaceInheritance\\IOkunabilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:12:01.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "OOPInterfaceInheritance\\Program.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterfaceInheritance\\OOPInterfaceInheritance\\Program.cs*",
+              "RelativeToolTip": "OOPInterfaceInheritance\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:11:36.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

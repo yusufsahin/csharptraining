@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\csharp\\OOPInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|c:\\projects\\csharp\\oopinterface\\oopinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|solutionrelative:oopinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|c:\\projects\\csharp\\oopinterface\\oopinterface\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|solutionrelative:oopinterface\\siparis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|c:\\projects\\csharp\\oopinterface\\oopinterface\\uluslararasiteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|solutionrelative:oopinterface\\uluslararasiteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|c:\\projects\\csharp\\oopinterface\\oopinterface\\hizliteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|solutionrelative:oopinterface\\hizliteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|c:\\projects\\csharp\\oopinterface\\oopinterface\\standartteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|solutionrelative:oopinterface\\standartteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|c:\\projects\\csharp\\oopinterface\\oopinterface\\iteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EF059F-FD93-485E-8DC6-06D60C58F12B}|OOPInterface\\OOPInterface.csproj|solutionrelative:oopinterface\\iteslimat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Siparis.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\Siparis.cs",
+              "RelativeDocumentMoniker": "OOPInterface\\Siparis.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\Siparis.cs",
+              "RelativeToolTip": "OOPInterface\\Siparis.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:03:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UluslararasiTeslimat.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\UluslararasiTeslimat.cs",
+              "RelativeDocumentMoniker": "OOPInterface\\UluslararasiTeslimat.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\UluslararasiTeslimat.cs",
+              "RelativeToolTip": "OOPInterface\\UluslararasiTeslimat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:00:57.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HizliTeslimat.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\HizliTeslimat.cs",
+              "RelativeDocumentMoniker": "OOPInterface\\HizliTeslimat.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\HizliTeslimat.cs",
+              "RelativeToolTip": "OOPInterface\\HizliTeslimat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:59:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandartTeslimat.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\StandartTeslimat.cs",
+              "RelativeDocumentMoniker": "OOPInterface\\StandartTeslimat.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\StandartTeslimat.cs",
+              "RelativeToolTip": "OOPInterface\\StandartTeslimat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:55:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITeslimat.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\ITeslimat.cs",
+              "RelativeDocumentMoniker": "OOPInterface\\ITeslimat.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\ITeslimat.cs",
+              "RelativeToolTip": "OOPInterface\\ITeslimat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:53:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\Program.cs",
+              "RelativeDocumentMoniker": "OOPInterface\\Program.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OOPInterface\\OOPInterface\\Program.cs",
+              "RelativeToolTip": "OOPInterface\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:52:34.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\bin\Debug\net8.0\OOPInterfaceInheritance.exe
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\bin\Debug\net8.0\OOPInterfaceInheritance.deps.json
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\bin\Debug\net8.0\OOPInterfaceInheritance.runtimeconfig.json
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\bin\Debug\net8.0\OOPInterfaceInheritance.dll
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\bin\Debug\net8.0\OOPInterfaceInheritance.pdb
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.AssemblyInfoInputs.cache
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.AssemblyInfo.cs
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.sourcelink.json
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.dll
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\refint\OOPInterfaceInheritance.dll
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.pdb
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\OOPInterfaceInheritance.genruntimeconfig.cache
+C:\Projects\csharp\OOPInterfaceInheritance\OOPInterfaceInheritance\obj\Debug\net8.0\ref\OOPInterfaceInheritance.dll

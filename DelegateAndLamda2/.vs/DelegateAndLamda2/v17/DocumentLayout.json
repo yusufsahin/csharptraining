@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\csharp\\DelegateAndLamda2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84393882-B4E6-4B69-9BD0-620EAB0CBF22}|DelegateAndLamda2\\DelegateAndLamda2.csproj|c:\\projects\\csharp\\delegateandlamda2\\delegateandlamda2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84393882-B4E6-4B69-9BD0-620EAB0CBF22}|DelegateAndLamda2\\DelegateAndLamda2.csproj|solutionrelative:delegateandlamda2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\DelegateAndLamda2\\DelegateAndLamda2\\Program.cs",
+              "RelativeDocumentMoniker": "DelegateAndLamda2\\Program.cs",
+              "ToolTip": "C:\\Projects\\csharp\\DelegateAndLamda2\\DelegateAndLamda2\\Program.cs",
+              "RelativeToolTip": "DelegateAndLamda2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:19:52.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

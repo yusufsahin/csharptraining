@@ -1,0 +1,15 @@
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\bin\Debug\net8.0\DelegateAndLamda2.exe
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\bin\Debug\net8.0\DelegateAndLamda2.deps.json
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\bin\Debug\net8.0\DelegateAndLamda2.runtimeconfig.json
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\bin\Debug\net8.0\DelegateAndLamda2.dll
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\bin\Debug\net8.0\DelegateAndLamda2.pdb
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.AssemblyInfoInputs.cache
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.AssemblyInfo.cs
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.sourcelink.json
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.dll
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\refint\DelegateAndLamda2.dll
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.pdb
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\DelegateAndLamda2.genruntimeconfig.cache
+C:\Projects\csharp\DelegateAndLamda2\DelegateAndLamda2\obj\Debug\net8.0\ref\DelegateAndLamda2.dll

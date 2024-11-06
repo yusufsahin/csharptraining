@@ -1,0 +1,15 @@
+C:\Projects\csharp\OOPInterface\OOPInterface\bin\Debug\net8.0\OOPInterface.exe
+C:\Projects\csharp\OOPInterface\OOPInterface\bin\Debug\net8.0\OOPInterface.deps.json
+C:\Projects\csharp\OOPInterface\OOPInterface\bin\Debug\net8.0\OOPInterface.runtimeconfig.json
+C:\Projects\csharp\OOPInterface\OOPInterface\bin\Debug\net8.0\OOPInterface.dll
+C:\Projects\csharp\OOPInterface\OOPInterface\bin\Debug\net8.0\OOPInterface.pdb
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.AssemblyInfoInputs.cache
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.AssemblyInfo.cs
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.sourcelink.json
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.dll
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\refint\OOPInterface.dll
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.pdb
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\OOPInterface.genruntimeconfig.cache
+C:\Projects\csharp\OOPInterface\OOPInterface\obj\Debug\net8.0\ref\OOPInterface.dll
