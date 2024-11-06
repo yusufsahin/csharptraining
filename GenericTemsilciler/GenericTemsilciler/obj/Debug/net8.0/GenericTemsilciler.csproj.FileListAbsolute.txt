@@ -1,0 +1,15 @@
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.AssemblyInfoInputs.cache
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.AssemblyInfo.cs
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.sourcelink.json
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\bin\Debug\net8.0\GenericTemsilciler.exe
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\bin\Debug\net8.0\GenericTemsilciler.deps.json
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\bin\Debug\net8.0\GenericTemsilciler.runtimeconfig.json
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\bin\Debug\net8.0\GenericTemsilciler.dll
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\bin\Debug\net8.0\GenericTemsilciler.pdb
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.dll
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\refint\GenericTemsilciler.dll
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.pdb
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\GenericTemsilciler.genruntimeconfig.cache
+C:\Projects\csharp\GenericTemsilciler\GenericTemsilciler\obj\Debug\net8.0\ref\GenericTemsilciler.dll
