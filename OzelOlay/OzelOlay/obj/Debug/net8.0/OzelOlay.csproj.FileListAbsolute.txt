@@ -1,0 +1,15 @@
+C:\Projects\csharp\OzelOlay\OzelOlay\bin\Debug\net8.0\OzelOlay.exe
+C:\Projects\csharp\OzelOlay\OzelOlay\bin\Debug\net8.0\OzelOlay.deps.json
+C:\Projects\csharp\OzelOlay\OzelOlay\bin\Debug\net8.0\OzelOlay.runtimeconfig.json
+C:\Projects\csharp\OzelOlay\OzelOlay\bin\Debug\net8.0\OzelOlay.dll
+C:\Projects\csharp\OzelOlay\OzelOlay\bin\Debug\net8.0\OzelOlay.pdb
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.AssemblyInfoInputs.cache
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.AssemblyInfo.cs
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.sourcelink.json
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.dll
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\refint\OzelOlay.dll
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.pdb
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\OzelOlay.genruntimeconfig.cache
+C:\Projects\csharp\OzelOlay\OzelOlay\obj\Debug\net8.0\ref\OzelOlay.dll

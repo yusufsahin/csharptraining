@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\csharp\\OzelOlay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|c:\\projects\\csharp\\ozelolay\\ozelolay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|solutionrelative:ozelolay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|c:\\projects\\csharp\\ozelolay\\ozelolay\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|solutionrelative:ozelolay\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|c:\\projects\\csharp\\ozelolay\\ozelolay\\userloggedineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|solutionrelative:ozelolay\\userloggedineventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|c:\\projects\\csharp\\ozelolay\\ozelolay\\kullanicioturumabonesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB996100-3069-4CA8-BCF2-698011097C9D}|OzelOlay\\OzelOlay.csproj|solutionrelative:ozelolay\\kullanicioturumabonesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KullaniciOturumAbonesi.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\KullaniciOturumAbonesi.cs",
+              "RelativeDocumentMoniker": "OzelOlay\\KullaniciOturumAbonesi.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\KullaniciOturumAbonesi.cs",
+              "RelativeToolTip": "OzelOlay\\KullaniciOturumAbonesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:19:55.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoggedInEventArgs.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\UserLoggedInEventArgs.cs",
+              "RelativeDocumentMoniker": "OzelOlay\\UserLoggedInEventArgs.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\UserLoggedInEventArgs.cs",
+              "RelativeToolTip": "OzelOlay\\UserLoggedInEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:19:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\Kullanici.cs",
+              "RelativeDocumentMoniker": "OzelOlay\\Kullanici.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\Kullanici.cs",
+              "RelativeToolTip": "OzelOlay\\Kullanici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:14:28.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\Program.cs",
+              "RelativeDocumentMoniker": "OzelOlay\\Program.cs",
+              "ToolTip": "C:\\Projects\\csharp\\OzelOlay\\OzelOlay\\Program.cs",
+              "RelativeToolTip": "OzelOlay\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:13:18.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

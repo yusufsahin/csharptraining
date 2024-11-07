@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OzelOlay/1.0.0": {
+        "runtime": {
+          "OzelOlay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OzelOlay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
