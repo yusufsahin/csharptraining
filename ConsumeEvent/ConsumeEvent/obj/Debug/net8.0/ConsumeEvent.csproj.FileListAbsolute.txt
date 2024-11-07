@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\bin\Debug\net8.0\ConsumeEvent.exe
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\bin\Debug\net8.0\ConsumeEvent.deps.json
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\bin\Debug\net8.0\ConsumeEvent.runtimeconfig.json
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\bin\Debug\net8.0\ConsumeEvent.dll
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\bin\Debug\net8.0\ConsumeEvent.pdb
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.dll
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\refint\ConsumeEvent.dll
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.pdb
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ConsumeEvent.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\ConsumeEvent\ConsumeEvent\obj\Debug\net8.0\ref\ConsumeEvent.dll
