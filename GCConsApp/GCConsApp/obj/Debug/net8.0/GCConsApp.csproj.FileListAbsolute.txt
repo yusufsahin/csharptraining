@@ -1,0 +1,15 @@
+C:\Projects\csharp\GCConsApp\GCConsApp\bin\Debug\net8.0\GCConsApp.exe
+C:\Projects\csharp\GCConsApp\GCConsApp\bin\Debug\net8.0\GCConsApp.deps.json
+C:\Projects\csharp\GCConsApp\GCConsApp\bin\Debug\net8.0\GCConsApp.runtimeconfig.json
+C:\Projects\csharp\GCConsApp\GCConsApp\bin\Debug\net8.0\GCConsApp.dll
+C:\Projects\csharp\GCConsApp\GCConsApp\bin\Debug\net8.0\GCConsApp.pdb
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.AssemblyInfoInputs.cache
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.AssemblyInfo.cs
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.csproj.CoreCompileInputs.cache
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.sourcelink.json
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.dll
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\refint\GCConsApp.dll
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.pdb
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\GCConsApp.genruntimeconfig.cache
+C:\Projects\csharp\GCConsApp\GCConsApp\obj\Debug\net8.0\ref\GCConsApp.dll

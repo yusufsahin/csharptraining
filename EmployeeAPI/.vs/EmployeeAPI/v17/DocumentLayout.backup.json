@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\csharp\\EmployeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AB8C1D-3AF4-4916-8398-6432FE89D91F}|EmployeeAPI\\EmployeeAPI.csproj|c:\\projects\\csharp\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AB8C1D-3AF4-4916-8398-6432FE89D91F}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AB8C1D-3AF4-4916-8398-6432FE89D91F}|EmployeeAPI\\EmployeeAPI.csproj|c:\\projects\\csharp\\employeeapi\\employeeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AB8C1D-3AF4-4916-8398-6432FE89D91F}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AB8C1D-3AF4-4916-8398-6432FE89D91F}|EmployeeAPI\\EmployeeAPI.csproj|c:\\projects\\csharp\\employeeapi\\employeeapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AB8C1D-3AF4-4916-8398-6432FE89D91F}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Projects\\csharp\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:43:35.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\EmployeeAPI\\EmployeeAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Projects\\csharp\\EmployeeAPI\\EmployeeAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:33:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Projects\\csharp\\EmployeeAPI\\EmployeeAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Projects\\csharp\\EmployeeAPI\\EmployeeAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "EmployeeAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:33:10.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
